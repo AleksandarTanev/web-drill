@@ -1,0 +1,18 @@
+/*body{
+    background:url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg') no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+    background-size: cover;
+}*/
+
+body{
+    background-color: #242526;
+}
+.header-text{
+    background-color: #3C0101;
+}
+
+.navbar{
+    background-color: #242526;
+}
